@@ -1,0 +1,21 @@
+[submodule "TheClient"]
+	path = TheClient
+	url = https://github.com/waedkhalifa/TheClient
+[submodule "TheFrontEnd"]
+	path = TheFrontEnd
+	url = https://github.com/waedkhalifa/TheFrontEnd
+[submodule "TheCatalog"]
+	path = TheCatalog
+	url = https://github.com/waedkhalifa/TheCatalog
+[submodule "TheOrders"]
+	path = TheOrders
+	url = https://github.com/waedkhalifa/TheOrders
+[submodule "CatalogRep"]
+	path = CatalogRep
+	url = https://github.com/waedkhalifa/CatalogRep
+[submodule "OrderRep"]
+	path = OrderRep
+	url = https://github.com/waedkhalifa/OrderRep
+[submodule "FE2"]
+	path = FE2
+	url = https://github.com/waedkhalifa/FE2
